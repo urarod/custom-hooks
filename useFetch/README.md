@@ -2,7 +2,7 @@
 
 Usage example:
 
-```javascrip
+```javascript
 const url = 'API endpoint'
 const {data: null, loading: true, error: null} = usefetch(url)
 ```
